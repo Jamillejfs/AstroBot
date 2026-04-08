@@ -27,6 +27,12 @@ Tecnologia: RAG
 Função: Busca de informações em PDFs locais antes da geração da resposta.
 
 --------------------------------------------------------------
+Sites para criar APIs:
+Hugging Face: https://huggingface.co/
+API Gemini Google: https://ai.google.dev/
+NASA API: https://api.nasa.gov
+
+--------------------------------------------------------------
 **🎯 Requisitos Atendidos (Checklist)**
 01. Interação em Linguagem Natural: Implementada via memória de contexto (LangChain Memory).
 02. Foco no Tema: Especialização total em Astronomia e Exploração Espacial.
